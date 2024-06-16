@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34729.46
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12.Ej2AccesoControl", "12.Ej2AccesoControl\12.Ej2AccesoControl.csproj", "{C007F8B0-8150-429D-8FB2-0CC76B542F78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C007F8B0-8150-429D-8FB2-0CC76B542F78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C007F8B0-8150-429D-8FB2-0CC76B542F78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C007F8B0-8150-429D-8FB2-0CC76B542F78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C007F8B0-8150-429D-8FB2-0CC76B542F78}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8166440E-D4EB-4159-A800-D4756D111AFB}
+	EndGlobalSection
+EndGlobal
